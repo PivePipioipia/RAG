@@ -3,4 +3,5 @@
 This repository demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline.
 
 ##  Pipeline Overview
+![RAG Pipeline](docs/RAG-pipeline.svg)
 
